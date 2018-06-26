@@ -40,7 +40,8 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "color"
 ;
 
 
@@ -150,7 +151,7 @@ a {
     &.post-title-link:hover{
         border-bottom: 1px dotted !important;
     }
-
+}
 
 
 
